@@ -77,13 +77,13 @@ Ces constats plaident en faveur d’une relocalisation partielle ou d’un renfo
 
 <h2>Partie 3 - Pour appronfondir à plus grande échelle</h2><br>
 => analyse détaillée de la répartition spatiale des équipements culturels à Paris, mettant en évidence les inégalités d'accès selon les territoires.<br>
- <ifram> https://www.apur.org/sites/default/files/documents/Culture_phase1.pdf></iframe><br><br>
+ <a> https://www.apur.org/sites/default/files/documents/Culture_phase1.pdf></a><br><br>
 
  => analyse comment Paris concentre les ressources culturelles, renforçant ainsi les inégalités d'accès à la culture dans les autres régions françaises.<br>
- <ifram>https://www.persee.fr/doc/ahess_0395-2649_1993_num_48_6_279232</ifram><br><br>
+ <a>https://www.persee.fr/doc/ahess_0395-2649_1993_num_48_6_279232</a><br><br>
 
  => souligne les inégalités d'accès à la culture en Île-de-France, notamment entre Paris et sa banlieue, mettant en lumière les défis d'intégration et de cohésion sociale liés à cette disparité.<br>
- <ifram>https://ile-de-france.cfdt.fr/portail/ile-de-france/la-cfdt-ile-de-france/revendications/-dossier-l-acces-a-la-culture-un-enjeu-de-societe-srv2_378826</ifram>
+ <a>https://ile-de-france.cfdt.fr/portail/ile-de-france/la-cfdt-ile-de-france/revendications/-dossier-l-acces-a-la-culture-un-enjeu-de-societe-srv2_378826</a>
  </p>
 
 </body>
