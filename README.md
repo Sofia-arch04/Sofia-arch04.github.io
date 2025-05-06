@@ -27,7 +27,7 @@ L’objectif est donc d’identifier les inégalités d’accès à la culture s
 Au-delà du constat, ce travail cherche à souligner que l’accès à la culture, essentiel pour la cohésion sociale, ne doit pas être un privilège réservé aux quartiers centraux. Assurer une meilleure répartition des équipements culturels dans Paris est désormais un enjeu majeur pour garantir à tous un accès égal à la vie culturelle et citoyenne.
 <br><br><br>
 
-=> Données sur la densité de population
+<u>=> Données sur la densité de population</u>
 
 
 => Délimitation de Paris
@@ -39,11 +39,11 @@ Au-delà du constat, ce travail cherche à souligner que l’accès à la cultur
         </div>
 <br>
 
-=> Données sur la densité de population
+<u>=> Données sur la densité de population</u>
 
 hzfeciafn
 
-=> Recensement des lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.)
+<u>=> Recensement des lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.)</u>
 <br><br>
    <head>
        <div style="text-align: center;">
@@ -72,7 +72,7 @@ De plus, se concentrer sur ce recensement permet d'affiner l'analyse en tenant c
 <section class="container mt-4">
     <h2> Partie 2 - Analyse des données</h2>
     <br>
-  1. Croisement des données géographiques et démographiques
+ <u> 1. Croisement des données géographiques et démographiques</u>
 <br><br>
 Cette étape consiste à croiser les données sur la répartition des équipements culturels (bibliothèques, musées, cinémas, etc.) avec celles concernant la densité de population. L’objectif est de vérifier si les zones les plus peuplées de Paris sont aussi les mieux desservies en équipements culturels. À l’aide de Systèmes d’Information Géographique (SIG), nous créons des cartes permettant de visualiser cette répartition et d’identifier les zones sous-desservies, en tenant compte de la population locale.
 
@@ -80,7 +80,7 @@ Cette étape consiste à croiser les données sur la répartition des équipemen
 
     
 <br><br>
-2. Calcul de l’accessibilité des lieux culturels
+<u>2. Calcul de l’accessibilité des lieux culturels</u>
 <br><br>
 Nous analysons l’accessibilité des lieux culturels en prenant en compte deux principaux critères :
 <br><br>
@@ -88,7 +88,7 @@ La distance physique entre les lieux culturels et les zones résidentielles (en 
 Les transports en commun, en évaluant leur disponibilité et leur efficacité pour desservir ces lieux.
 Cela permet de comprendre si les habitants, en particulier dans les zones plus périphériques, peuvent facilement accéder aux équipements culturels ou s’ils font face à des obstacles géographiques ou de transport.
 <br><br>
-3. Outils utilisés : SIG (Système d'Information Géographique)
+<u>3. Outils utilisés : SIG (Système d'Information Géographique)</u>
 <br><br>
 Nous utilisons le SIG pour cartographier les équipements culturels et analyser leur relation avec les données démographiques. Le SIG permet de visualiser les zones où les équipements sont concentrés et celles où ils sont rares. Cela permet de proposer des solutions pour améliorer l’accès à la culture dans les zones les moins desservies, en analysant à la fois la densité de population et l’accessibilité géographique.
 <br><br>
