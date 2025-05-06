@@ -18,7 +18,9 @@ Problématique :   L’offre culturelle à Paris : une répartition équitable
 <br><br>
 
 <h2> Partie 1 - Introduction</h2>
-
+   p {
+            text-align: justify;
+        }
 <br>
 La culture joue un rôle clé dans la vie sociale et dans le développement des territoires. À Paris, les lieux culturels sont nombreux et très concentrés, mais cette richesse s’estompe peu à peu dès qu’on s’éloigne du centre. À Paris, l’accès à la culture devient souvent plus compliqué : les équipements sont moins nombreux, parfois éloignés, et les habitants n’y ont pas toujours facilement accès.
 <br><br>
