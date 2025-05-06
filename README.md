@@ -1,25 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texte Justifié avec Fond Bleu</title>
-    <style>
-        body {
-            background-color: blue; /* Fond bleu pour toute la page */
-            color: black; /* Texte noir */
-            font-family: Arial, sans-serif; /* Police de texte */
-        }
 
-        p {
-            text-align: justify; /* Texte justifié */
-            padding: 15px; /* Marge autour du texte */
-        }
-    </style>
-</head>
-<body>
-
-    <p>
         
 <h1 style="font-size: 36px;">Offre culturelle à Paris</h1>
 
