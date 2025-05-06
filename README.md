@@ -75,20 +75,18 @@ Problématique :   L’offre culturelle à Paris : une répartition équitable
 <p>Ces constats plaident en faveur d’une relocalisation partielle ou d’un renforcement ciblé de l’offre culturelle dans les zones où la densité de population est élevée mais peu dotée en équipements, afin de garantir un meilleur accès aux ressources culturelles à l’échelle de la ville.</p>
 
 
-<h2>Partie 3 - Pour appronfondir à plus grande échelle</h2><br>
+<h2>Partie 3 - Pour appronfondir à plus grande échelle</h2><br><br>
 => analyse détaillée de la répartition spatiale des équipements culturels à Paris, mettant en évidence les inégalités d'accès selon les territoires.<br>
- <a> https://www.apur.org/sites/default/files/documents/Culture_phase1.pdf </a><br>
+ <a> https://www.apur.org/sites/default/files/documents/Culture_phase1.pdf </a><br><br>
 
  => analyse comment Paris concentre les ressources culturelles, renforçant ainsi les inégalités d'accès à la culture dans les autres régions françaises.<br>
- <a>https://www.persee.fr/doc/ahess_0395-2649_1993_num_48_6_279232</a><br>
+ <a>https://www.persee.fr/doc/ahess_0395-2649_1993_num_48_6_279232</a><br><br>
 
- => souligne les inégalités d'accès à la culture en Île-de-France, notamment entre Paris et sa banlieue, mettant en lumière les défis d'intégration et de cohésion sociale liés à cette disparité.<br>
+ => souligne les inégalités d'accès à la culture en Île-de-France, notamment entre Paris et sa banlieue, mettant en lumière les défis d'intégration et de cohésion sociale liés à cette disparité.<br><br>
  <a>https://ile-de-france.cfdt.fr/portail/ile-de-france/la-cfdt-ile-de-france/revendications/-dossier-l-acces-a-la-culture-un-enjeu-de-societe-srv2_378826</a>
- </p>
+ </p><br>
 
 <h2>Romane Talleu et Sofia Boushab</h2>
-</body>
-</html>
 
  
  
