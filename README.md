@@ -40,16 +40,6 @@ Au-delà du constat, ce travail cherche à souligner que l’accès à la cultur
         </div>
 <br>
 
-
-
-<u>=> Données sur la densité de population</u><br><br><br>
-  <div style="text-align: center;">
-<img width="669" alt="  <div style="text-align: center;">
-<img width="669" alt="![plan densite à paris copy](https://github.com/user-attachments/assets/e38fa2de-4bdc-40ff-9ab4-80bf0cb2b02f)" />
-       </d> <br><br>
-      
-       </div>
-
 <u>=> Recensement des lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.)</u>
 <br><br>
    <head>
@@ -64,7 +54,9 @@ Au-delà du constat, ce travail cherche à souligner que l’accès à la cultur
        <div style="text-align: center;">
 "<img width="697" alt="Capture d’écran 2025-05-06 à 16 49 43" src="https://github.com/user-attachments/assets/637c2c18-84c7-4721-b0ef-e070a829e272" /> 
        </div>
+       
 <br><br><br>
+       
 Dans cette étude sur l'accès à l'offre culturelle à Paris, j'ai choisi de faire des zooms spécifiques sur le recensement des lieux culturels pour plusieurs raisons importantes.
 <br><br>
 Les lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.) jouent un rôle clé dans la cohésion sociale et l’épanouissement personnel. Pourtant, leur répartition géographique n’est pas toujours équitable : certains territoires bénéficient d’un meilleur accès que d’autres, ce qui crée des inégalités dans l’accès à la culture.
@@ -73,8 +65,6 @@ En se concentrant sur le recensement des lieux culturels, cette étude répond �
 <br><br>
 De plus, se concentrer sur ce recensement permet d'affiner l'analyse en tenant compte non seulement du nombre de lieux culturels, mais aussi de leur répartition par rapport aux besoins spécifiques des populations locales. Cette approche aide à évaluer si l’offre culturelle répond vraiment aux dynamiques démographiques et si des ajustements sont nécessaires pour garantir un accès plus équitable à la culture.
 <br><br>
-
-
 
 <section class="container mt-4">
     <h2> Partie 2 - Analyse des données</h2>
