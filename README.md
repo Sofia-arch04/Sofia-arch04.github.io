@@ -33,29 +33,21 @@ Au-delà du constat, ce travail vise à rappeler que l’accès à la culture, f
 => Données sur la densité de population
 <br>
 <head>
-   <img width="660" alt="Densité pop" src="https://github.com/user-attachments/assets/fdf22230-e757-403b-beef-58115de1a97e" />   background-position: center center; /* Cela centre l'image sur la page */
-            background-repeat: no-repeat; /* Cela évite que l'image se répète */
-            color: white; /* Texte en blanc
-      
+   <img width="660" alt="Densité pop" src="https://github.com/user-attachments/assets/fdf22230-e757-403b-beef-58115de1a97e" />  
+
 <br>
 => Recensement des lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.)
 <br>
    <head>
 <img width="646" alt="Recensement des lieux culturels" src="https://github.com/user-attachments/assets/798b8221-abc1-4c7b-9025-f987efde8694" /> 
-   background-position: center center; /* Cela centre l'image sur la page */
-            background-repeat: no-repeat; /* Cela évite que l'image se répète */
+ 
      
 
 <img width="669" alt="Recensement des lieux culturels zoom" src="https://github.com/user-attachments/assets/8047a719-3c05-4684-a854-67109a282a96" />
-   background-position: center center; /* Cela centre l'image sur la page */
-            background-repeat: no-repeat; /* Cela évite que l'image se répète */
-            color: white; /* Texte en blanc
+   
 
 "<img width="697" alt="Capture d’écran 2025-05-06 à 16 49 43" src="https://github.com/user-attachments/assets/637c2c18-84c7-4721-b0ef-e070a829e272" />
-   background-position: center center; /* Cela centre l'image sur la page */
-            background-repeat: no-repeat; /* Cela évite que l'image se répète */
-            color: white; /* Texte en blanc
-
+ 
 <br>
 Dans cette étude sur l'accès à l'offre culturelle en grande banlieue parisienne, j'ai choisi de faire des zooms spécifiques sur le recensement des lieux culturels pour plusieurs raisons importantes.
 <br>
