@@ -9,35 +9,40 @@
 
 Plan du projet <br>
 1. Introduction  <br> 
-2. Analyse de données<br>
-<br><br><br><br>
+2. Analyse de données<br><br>
+Problématique :   L’offre culturelle en grande banlieue parisienne : une répartition équitable face à la densité de population ?
+<br><br>
 
 <h2> Partie 1 - Introduction</h2>
-<br><br><br>
-  L’offre culturelle en grande banlieue parisienne : une répartition équitable face à la densité de population ?
+
 <br><br>
-L’offre culturelle constitue un levier essentiel du développement social et territorial. À Paris, la concentration des équipements culturels est particulièrement élevée, mais cette abondance se heurte à une réalité contrastée dès que l’on s’éloigne du cœur métropolitain. En grande banlieue parisienne, l’accès à la culture reste souvent inégal, tant en quantité qu’en proximité.
+La culture joue un rôle clé dans la vie sociale et dans le développement des territoires. À Paris, les lieux culturels sont nombreux et très concentrés, mais cette richesse s’estompe peu à peu dès qu’on s’éloigne du centre. En grande banlieue, l’accès à la culture devient souvent plus compliqué : les équipements sont moins nombreux, parfois éloignés, et les habitants n’y ont pas toujours facilement accès.
 <br><br>
-Cette étude propose d’interroger la répartition des lieux culturels (bibliothèques, musées, cinémas, théâtres, centres d’art, etc.) dans les grandes couronnes de l’Île-de-France, en lien avec la densité de population et les conditions d’accessibilité. L’objectif est de déterminer si l’offre culturelle dans ces territoires périphériques est adaptée aux besoins des populations locales.
+Cette étude cherche à comprendre comment les lieux culturels — bibliothèques, musées, cinémas, théâtres, centres d’art, etc. — sont répartis sur le territoire parisien, en tenant compte de la densité de population et des conditions d’accessibilité. L’objectif est de voir si, dans les zones périphériques, l’offre culturelle correspond réellement aux besoins et aux réalités des habitants.
 <br><br>
 Pour ce faire, nous croiserons plusieurs indicateurs : la localisation des équipements culturels (extraits d’OpenStreetMap), les données démographiques communales (issues de l’INSEE), ainsi qu’un indicateur d’accessibilité spatiale. L’analyse sera menée à l’aide d’un système d’information géographique (SIG), afin de produire des cartes thématiques révélant les éventuelles inégalités territoriales.
 <br><br>
-Nous chercherons ainsi à identifier les disparités dans l’accès à la culture selon les zones de la grande banlieue parisienne, et à proposer des pistes d’amélioration pour une répartition plus équitable des ressources culturelles.
+L’objectif est donc d’identifier les inégalités d’accès à la culture selon les différentes zones de Paris, et d’envisager des pistes pour mieux répartir les ressources culturelles de manière plus juste et équilibrée.
 <br><br>
-Au-delà du constat, ce travail vise à rappeler que l’accès à la culture, facteur de cohésion sociale, ne doit pas être un privilège réservé aux centres urbains. Une meilleure répartition des équipements culturels dans les territoires périurbains apparaît aujourd’hui comme un enjeu central pour garantir l’égalité d’accès à la vie culturelle et citoyenne.
+Au-delà du constat, ce travail cherche à souligner que l’accès à la culture, essentiel pour la cohésion sociale, ne doit pas être un privilège réservé aux quartiers centraux. Assurer une meilleure répartition des équipements culturels dans Paris est désormais un enjeu majeur pour garantir à tous un accès égal à la vie culturelle et citoyenne.
 <br><br><br>
 
-
-2 - Méthodologie
-<br><br>
 => Données sur la densité de population
+
+
+=> Délimitation de Paris
 <br><br>
 <head>
 
     <div style="text-align: center;">
    <img width="660" alt="Densité pop" src="https://github.com/user-attachments/assets/fdf22230-e757-403b-beef-58115de1a97e" />  
         </div>
-<br><br>
+<br>
+
+=> Données sur la densité de population
+
+hzfeciafn
+
 => Recensement des lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.)
 <br><br>
    <head>
@@ -53,31 +58,27 @@ Au-delà du constat, ce travail vise à rappeler que l’accès à la culture, f
 "<img width="697" alt="Capture d’écran 2025-05-06 à 16 49 43" src="https://github.com/user-attachments/assets/637c2c18-84c7-4721-b0ef-e070a829e272" /> 
        </div>
 <br><br><br>
-Dans cette étude sur l'accès à l'offre culturelle en grande banlieue parisienne, j'ai choisi de faire des zooms spécifiques sur le recensement des lieux culturels pour plusieurs raisons importantes.
+Dans cette étude sur l'accès à l'offre culturelle à Paris, j'ai choisi de faire des zooms spécifiques sur le recensement des lieux culturels pour plusieurs raisons importantes.
 <br><br>
-Tout d'abord, ces lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.) représentent des ressources essentielles pour la cohésion sociale et l'épanouissement des individus. Cependant, leur répartition géographique n'est pas toujours uniforme, et certains territoires peuvent être mieux desservis que d'autres, créant ainsi des inégalités d'accès à la culture.
+Les lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.) jouent un rôle clé dans la cohésion sociale et l’épanouissement personnel. Pourtant, leur répartition géographique n’est pas toujours équitable : certains territoires bénéficient d’un meilleur accès que d’autres, ce qui crée des inégalités dans l’accès à la culture.
 <br><br>
-Le zoom sur le recensement des lieux culturels permet de répondre à cette problématique en identifiant précisément où se trouvent ces équipements. En croisant ces données avec des informations sur la densité de population et l'accessibilité (temps de trajet, distances), il est possible de mieux comprendre comment l'offre culturelle est distribuée dans les différentes zones de la grande banlieue. Ces zooms permettent de repérer les zones sous-desservies, où la population peut être éloignée de ces lieux de culture, et de soulever des questions sur l'égalité d'accès.
+En se concentrant sur le recensement des lieux culturels, cette étude répond à la problématique en identifiant précisément où se trouvent ces équipements. En croisant ces données avec des informations sur la densité de population et l'accessibilité (temps de trajet, distances), il devient possible de mieux comprendre la répartition de l'offre culturelle dans les différentes zones de Paris. Ces analyses permettent de repérer les zones sous-desservies, où la population est éloignée de ces équipements, et d’ouvrir la réflexion sur l'égalité d'accès à la culture.
 <br><br>
-En outre, se concentrer sur ce recensement permet d'affiner l'analyse en prenant en compte non seulement la quantité de lieux culturels, mais aussi leur répartition par rapport aux besoins des populations locales. Cette démarche aide à mieux comprendre si l'offre culturelle suit réellement les dynamiques démographiques, et si des ajustements sont nécessaires pour assurer une plus grande équité dans l'accès à la culture.
+De plus, se concentrer sur ce recensement permet d'affiner l'analyse en tenant compte non seulement du nombre de lieux culturels, mais aussi de leur répartition par rapport aux besoins spécifiques des populations locales. Cette approche aide à évaluer si l’offre culturelle répond vraiment aux dynamiques démographiques et si des ajustements sont nécessaires pour garantir un accès plus équitable à la culture.
 <br><br>
-En résumé, le choix de faire ces zooms sur le recensement des lieux culturels est une étape clé pour évaluer l'impact de la distribution de ces équipements sur les inégalités territoriales d'accès à la culture. Cela permet de cibler les zones où des efforts supplémentaires pourraient être faits pour garantir une meilleure répartition des ressources culturelles.
-<br>
-
-
-
-
-
----
 
 
 
 <section class="container mt-4">
     <h2> Partie 2 - Analyse des données</h2>
-    <br><br>
+    <br>
   1. Croisement des données géographiques et démographiques
 <br><br>
-Cette étape consiste à croiser les données sur la répartition des équipements culturels (bibliothèques, musées, cinémas, etc.) avec celles concernant la densité de population. L'objectif est de vérifier si les zones les plus peuplées de la grande banlieue sont également les mieux desservies en équipements culturels. À l'aide de Systèmes d'Information Géographique (SIG), nous créons des cartes qui visualisent cette répartition et permettent d'identifier les zones sous-desservies, en fonction de la population locale.
+Cette étape consiste à croiser les données sur la répartition des équipements culturels (bibliothèques, musées, cinémas, etc.) avec celles concernant la densité de population. L’objectif est de vérifier si les zones les plus peuplées de Paris sont aussi les mieux desservies en équipements culturels. À l’aide de Systèmes d’Information Géographique (SIG), nous créons des cartes permettant de visualiser cette répartition et d’identifier les zones sous-desservies, en tenant compte de la population locale.
+
+    fhiuc
+
+    
 <br><br>
 2. Calcul de l’accessibilité des lieux culturels
 <br><br>
