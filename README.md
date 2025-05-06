@@ -42,7 +42,12 @@ Au-delà du constat, ce travail cherche à souligner que l’accès à la cultur
 
 
 <u>=> Données sur la densité de population</u><br><br><br>
-nerhgioeh
+  <div style="text-align: center;">
+<img width="669" alt="  <div style="text-align: center;">
+<img width="669" alt="![plan densite à paris copy](https://github.com/user-attachments/assets/e38fa2de-4bdc-40ff-9ab4-80bf0cb2b02f)" />
+       </d> <br><br>
+      
+       </div>
 
 <u>=> Recensement des lieux culturels (bibliothèques, cinémas, musées, théâtres, etc.)</u>
 <br><br>
