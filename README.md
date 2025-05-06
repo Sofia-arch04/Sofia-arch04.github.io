@@ -1,10 +1,26 @@
-
+<!DOCTYPE html>
 <html lang="fr">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texte Justifié avec Fond Bleu</title>
+    <style>
+        body {
+            background-color: blue; /* Fond bleu pour toute la page */
+            color: black; /* Texte noir */
+            font-family: Arial, sans-serif; /* Police de texte */
+        }
 
+        p {
+            text-align: justify; /* Texte justifié */
+            padding: 15px; /* Marge autour du texte */
+        }
+    </style>
+</head>
+<body>
+
+    <p>
+        
 <h1 style="font-size: 36px;">Offre culturelle à Paris</h1>
 
 <h2>Plan du projet</h2>
@@ -18,9 +34,6 @@ Problématique :   L’offre culturelle à Paris : une répartition équitable
 <br><br>
 
 <h2> Partie 1 - Introduction</h2>
-   p {
-            text-align: justify;
-        }
 <br>
 La culture joue un rôle clé dans la vie sociale et dans le développement des territoires. À Paris, les lieux culturels sont nombreux et très concentrés, mais cette richesse s’estompe peu à peu dès qu’on s’éloigne du centre. À Paris, l’accès à la culture devient souvent plus compliqué : les équipements sont moins nombreux, parfois éloignés, et les habitants n’y ont pas toujours facilement accès.
 <br><br>
@@ -89,7 +102,10 @@ Ces constats plaident en faveur d’une relocalisation partielle ou d’un renfo
 
  => souligne les inégalités d'accès à la culture en Île-de-France, notamment entre Paris et sa banlieue, mettant en lumière les défis d'intégration et de cohésion sociale liés à cette disparité.<br>
  <ifram>https://ile-de-france.cfdt.fr/portail/ile-de-france/la-cfdt-ile-de-france/revendications/-dossier-l-acces-a-la-culture-un-enjeu-de-societe-srv2_378826</ifram>
+ </p>
 
+</body>
+</html>
 
  
  
