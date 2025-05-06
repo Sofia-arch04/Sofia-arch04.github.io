@@ -11,6 +11,7 @@
 <ol>
   <li>Introduction</li>
   <li>Méthodologie</li>
+<li>Pour approndir le sujet</li>
 </ol>
 
 Problématique :   L’offre culturelle à Paris : une répartition équitable face à la densité de population ?
@@ -78,16 +79,26 @@ De plus, se concentrer sur ce recensement permet d'affiner l'analyse en tenant c
 <section class="container mt-4">
     <h2> Partie 2 - Analyse des données</h2>
     <br>
- <u> 1. Croisement des données géographiques et démographiques</u>
-<br><br>
-Cette étape consiste à croiser les données sur la répartition des équipements culturels (bibliothèques, musées, cinémas, etc.) avec celles concernant la densité de population. L’objectif est de vérifier si les zones les plus peuplées de Paris sont aussi les mieux desservies en équipements culturels. À l’aide de Systèmes d’Information Géographique (SIG), nous créons des cartes permettant de visualiser cette répartition et d’identifier les zones sous-desservies, en tenant compte de la population locale.
+Dans le cadre de cette analyse, nous avons croisé les données issues d’OpenStreetMap concernant les équipements culturels (musées, bibliothèques, cinémas, théâtres, centres culturels) avec les données de population fournies par l’INSEE à l’échelle des IRIS. Même sans carte, l’examen des données révèle un déséquilibre notable dans la répartition de l’offre culturelle à Paris. <br> <br>
 
-    fhiuc
+Par exemple, certains arrondissements comme le 16ᵉ et le 15ᵉ présentent une forte densité de population (plus de 25 000 habitants/km² dans certaines zones IRIS), mais une offre culturelle relativement faible. Dans plusieurs IRIS du 15ᵉ arrondissement, on observe moins d’un équipement culturel pour 10 000 habitants, alors que dans les arrondissements centraux comme le 1er ou le 4ᵉ, ce ratio peut descendre à un équipement pour 1 000 à 2 000 habitants, malgré une population plus faible. <br> <br>
 
-    
-<br><br>
+Cette situation souligne un déséquilibre spatial entre population et offre culturelle. Les quartiers touristiques ou historiques sont suréquipés, tandis que des zones densément peuplées comme le sud-ouest parisien (15ᵉ et 16ᵉ arrondissements) apparaissent sous-desservies. Cela pose des enjeux d’équité territoriale et d’accès à la culture, particulièrement pour les populations éloignées du centre ou n’ayant pas facilement accès aux transports. <br> <br>
 
-<u>2. Outils utilisés : SIG (Système d'Information Géographique)</u>
-<br><br>
-Nous utilisons le SIG pour cartographier les équipements culturels et analyser leur relation avec les données démographiques. Le SIG permet de visualiser les zones où les équipements sont concentrés et celles où ils sont rares. Cela permet de proposer des solutions pour améliorer l’accès à la culture dans les zones les moins desservies, en analysant à la fois la densité de population et l’accessibilité géographique.
-<br><br>
+Ces constats plaident en faveur d’une relocalisation partielle ou d’un renforcement ciblé de l’offre culturelle dans les zones où la densité de population est élevée mais peu dotée en équipements, afin de garantir un meilleur accès aux ressources culturelles à l’échelle de la ville.
+
+
+<h2>Partie 3 - Pour appronfondir à plus grande échelle</h2><br>
+=> analyse détaillée de la répartition spatiale des équipements culturels à Paris, mettant en évidence les inégalités d'accès selon les territoires.<br>
+ <ifram> https://www.apur.org/sites/default/files/documents/Culture_phase1.pdf></iframe><br><br>
+
+ => analyse comment Paris concentre les ressources culturelles, renforçant ainsi les inégalités d'accès à la culture dans les autres régions françaises.<br>
+ <ifram>https://www.persee.fr/doc/ahess_0395-2649_1993_num_48_6_279232</ifram><br><br>
+
+ => souligne les inégalités d'accès à la culture en Île-de-France, notamment entre Paris et sa banlieue, mettant en lumière les défis d'intégration et de cohésion sociale liés à cette disparité.<br>
+ <ifram>https://ile-de-france.cfdt.fr/portail/ile-de-france/la-cfdt-ile-de-france/revendications/-dossier-l-acces-a-la-culture-un-enjeu-de-societe-srv2_378826</ifram>
+
+
+ 
+ 
+ 
